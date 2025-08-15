@@ -1,10 +1,12 @@
+# Accounting for Managers
+
 This directory contains the assignments of **Accounting for Managers**.
 
-<h3>1. Fundamentals of Accounting</h3>
+## 1. Fundamentals of Accounting
 
 As a team lead executed this assignment with team of 4 students and created the final report. The task came out to be best in PGDM (MBA equivalence) class. 
 
-![FOA screenshot](FOA.png)
+![FOA screenshot](Images/FOA.png)
 
 It is the study of the basic principles and concepts that form the foundation of financial record-keeping and reporting.  
 
