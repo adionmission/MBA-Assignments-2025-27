@@ -10,13 +10,13 @@ As a team lead executed this assignment with team of 4 students and created the 
 
 It is the study of the basic principles and concepts that form the foundation of financial record-keeping and reporting.  
 
-Topics it covered:
+### Topics it covered:
 1. Objectives of Accounting
 2. Accounting w.r.t other Disciplines
 3. Branches of Accounting
 4. Difference between main branches of accounting
 
-Case Studies which are covered:
+### Case Studies which are covered:
 1. Soft bank's investment in OpenAI
 2. Otipy's crash and burn
 3. IndusInd bank wake up call
