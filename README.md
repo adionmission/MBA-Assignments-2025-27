@@ -9,7 +9,7 @@
 </p>
 
 
-This repository contains all the assignment work of my PGDM which is equivalent to MBA in India as my college is the member of AIU and accredited by NBA.  
+This repository contains all the assignment work of my PGDM which is equivalent to MBA in India as IPE India is the member of AIU and accredited by NBA.  
 
 It includes case studies, solved problem sets, project reports, Excel models, presentations, and code notebooks, organized by semester and subject for easy reference.  
 
