@@ -44,4 +44,4 @@ Team of 11 members worked on it and the task came out to be the best in PGDM (Eq
 
 ### Exploratory Data Analysis
 
-![Exploratory Data Analysis](Images/Exp-data-analysis.png)
+![Exploratory Data Analysis](Screenshots/Exp-data-analysis.png)
