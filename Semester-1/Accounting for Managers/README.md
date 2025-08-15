@@ -4,7 +4,7 @@ This directory contains the assignments of **Accounting for Managers**.
 
 ## 1. Fundamentals of Accounting
 
-As a team lead executed this assignment with team of 4 students and created the final report. The task came out to be best in PGDM (MBA equivalence) class. 
+As a team lead, executed this assignment with team of 4 students and created the final report. The task came out to be best in PGDM (MBA equivalence) class. 
 
 ![FOA screenshot](Screenshots/FOA.png)
 
