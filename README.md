@@ -3,7 +3,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055" alt="I love opensource"/>
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+  <img src="https://img.shields.io/github/license/adionmission/MBA-Assignments-2025-27"/>
+  <img src="https://img.shields.io/github/release-date/adionmission/MBA-Assignments-2025-27"/>
+  <img src="https://img.shields.io/github/repo-size/adionmission/MBA-Assignments-2025-27"/>
 </p>
+
 
 This repository contains all the assignment work of my PGDM which is equivalent to MBA in India as my college is the member of AIU and accredited by NBA.  
 
