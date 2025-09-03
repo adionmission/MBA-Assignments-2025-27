@@ -21,3 +21,4 @@ The purpose is to document learning, provide a quick revision resource, and show
 
 <img src="https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png" width="20" style="vertical-align:middle;"/> Business Statistics for Decision Making
 
+<img src="https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png" width="20" style="vertical-align:middle;"/> Personality Development and Business Communication
